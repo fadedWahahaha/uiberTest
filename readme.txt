@@ -1,2 +1,2 @@
 firstDay
-second
+:second
